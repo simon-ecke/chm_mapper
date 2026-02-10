@@ -12,6 +12,12 @@ A fully automated Python workflow to create high-quality cartographic PDF maps f
 - 📄 **High-Quality Output**: 300 DPI PDF export for printing and reports
 - 🌲 **Forestry-Ready**: Pre-configured for forestry applications
 
+## Example Output
+
+![Example CHM Map](example_map.PNG)
+
+*Example cartographic map showing tree heights classified into discrete height classes with legend, scale bar, and north arrow.*
+
 ## Installation
 
 ### 1. Clone or Download
