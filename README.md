@@ -4,13 +4,13 @@ A fully automated Python workflow to create high-quality cartographic PDF maps f
 
 ## Features
 
-- 🗺️ **Automated Map Generation**: Create publication-ready PDF maps from CHM rasters
-- 📐 **Vector Integration**: Overlay forest compartments/inventory areas as boundaries
-- 🎨 **Custom Classification**: Flexible height class definitions with custom color schemes
-- 🧭 **Cartographic Elements**: Automatic title, legend, scale bar, and north arrow
-- 🔄 **Batch Processing**: Process multiple areas automatically
-- 📄 **High-Quality Output**: 300 DPI PDF export for printing and reports
-- 🌲 **Forestry-Ready**: Pre-configured for forestry applications
+-  **Automated Map Generation**: Create publication-ready PDF maps from CHM rasters
+-  **Vector Integration**: Overlay forest compartments/inventory areas as boundaries
+-  **Custom Classification**: Flexible height class definitions with custom color schemes
+-  **Cartographic Elements**: Automatic title, legend, scale bar, and north arrow
+-  **Batch Processing**: Process multiple areas automatically
+-  **High-Quality Output**: 300 DPI PDF export for printing and reports
+-  **Forestry-Ready**: Pre-configured for forestry applications
 
 ## Example Output
 
